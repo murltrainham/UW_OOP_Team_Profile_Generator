@@ -23,5 +23,8 @@
   "homepage": "https://github.com/murltrainham/UW_OOP_Team_Profile_Generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
